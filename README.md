@@ -18,3 +18,8 @@ Any resources added to this repository should be freely distributable.  Material
     cd aipout
     dspace packager -d -a -i 123456789/0 -e test@test.edu SITE.zip
     zip -cf AIP.zip *.zip
+
+## Other Datasets
+
+- SQL Load for DSpace Entities
+  - https://www.dropbox.com/s/ovqp394y3vofnwa/entities7-test-db.sql.gz?dl=1
