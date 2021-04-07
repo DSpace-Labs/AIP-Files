@@ -1,6 +1,6 @@
 # AIP-Files
 
-Repo of re-usable AIP files for DSpace testing
+Repo of re-usable AIP files / Sample Data for DSpace testing
 
 ## What to include
 Any resources added to this repository should be freely distributable.  Material under copyright should not be included.
@@ -21,7 +21,7 @@ Any resources added to this repository should be freely distributable.  Material
 
 ## Other Datasets
 
-- SQL Load for DSpace Entities
-  - https://www.dropbox.com/s/xh3ack0vg0922p2/configurable-entities-2019-05-08.sql?dl=1
-- Assetstore
-  - https://www.dropbox.com/s/zv7lj8j2lp3egjs/assetstore.tar.gz?dl=1
+- Sample DSpace Entities - Provides sample configurable entities data, including sample Journals, Volumes, Issues, Publications, Persons and OrgUnits.
+  - See the (`demo-entities-data`)[https://github.com/DSpace-Labs/AIP-Files/releases/tag/demo-entities-data] tag/release in this repository for details/instructions.
+- Demo Site AIPs - Provides the default demo content used on http://demo.dspace.org
+  - See the (`demo-site-aips`)[https://github.com/DSpace-Labs/AIP-Files/releases/tag/demo-site-aips] tag/release in this repository for details/instructions.
