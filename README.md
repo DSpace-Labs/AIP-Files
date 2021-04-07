@@ -21,7 +21,7 @@ Any resources added to this repository should be freely distributable.  Material
 
 ## Other Datasets
 
-- Sample DSpace Entities - Provides sample configurable entities data, including sample Journals, Volumes, Issues, Publications, Persons and OrgUnits.
-  - See the (`demo-entities-data`)[https://github.com/DSpace-Labs/AIP-Files/releases/tag/demo-entities-data] tag/release in this repository for details/instructions.
-- Demo Site AIPs - Provides the default demo content used on http://demo.dspace.org
-  - See the (`demo-site-aips`)[https://github.com/DSpace-Labs/AIP-Files/releases/tag/demo-site-aips] tag/release in this repository for details/instructions.
+- **Sample DSpace Entities** - Provides sample configurable entities data, including sample Journals, Volumes, Issues, Publications, Persons and OrgUnits.
+  - See the [`demo-entities-data`](https://github.com/DSpace-Labs/AIP-Files/releases/tag/demo-entities-data) tag/release in this repository for details/instructions.
+- **Demo Site AIPs** - Provides the default demo content used on http://demo.dspace.org
+  - See the [`demo-site-aips`](https://github.com/DSpace-Labs/AIP-Files/releases/tag/demo-site-aips) tag/release in this repository for details/instructions.
